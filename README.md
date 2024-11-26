@@ -1,16 +1,13 @@
-## Hi there 👋
+<img src="'/Users/shadietholazabalcoro/Documents/DAM/2do Año/BannerLinkedin.png'" alt="Descripción de la imagen" style="width:100%; max-width:400px; border-radius:10px; margin-bottom:20px;">
 
-<!--
-**Shadieth/Shadieth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 ¡Hola! Soy **Shadieth Olazábal**
 
-Here are some ideas to get you started:
+## 🎓 Estudiante de Desarrollo de Aplicaciones Multiplataforma  
+Estoy en formación como desarrolladora de aplicaciones multiplataforma, adquiriendo habilidades para diseñar y desarrollar soluciones digitales modernas y eficientes.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Proyectos en crecimiento  
+En mi **GitHub**, encontrarás una colección de proyectos desarrollados como parte de mi aprendizaje académico. Cada proyecto refleja mi compromiso con el crecimiento constante y mi pasión por crear aplicaciones funcionales, bien estructuradas y orientadas al detalle.  
+
+## 📫 Conéctate conmigo  
+🌐 [LinkedIn](https://www.linkedin.com/in/shadieth-olazabal-coro)  
+✉️ [shadieth@yahoo.com](mailto:shadieth@yahoo.com)  
