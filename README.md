@@ -8,6 +8,6 @@ Estoy en formación como desarrolladora de aplicaciones multiplataforma, adquiri
 ## 💻 Proyectos en crecimiento  
 En mi **GitHub**, encontrarás una colección de proyectos desarrollados como parte de mi aprendizaje académico.
 
-## 📫 Conéctate conmigo  
+## 🤝🏻 Conéctate conmigo  
 🌐 [LinkedIn](https://www.linkedin.com/in/shadieth-olazabal-coro)  
 ✉️ [shadieth@yahoo.com](mailto:shadieth@yahoo.com)  
